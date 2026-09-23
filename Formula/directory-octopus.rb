@@ -11,7 +11,7 @@ class DirectoryOctopus < Formula
   # privé.
   url "https://theorangenerd.ovh/doctopus/directory-octopus-1.0.0-macos-arm64.tar.gz"
   version "1.0.0"
-  sha256 "ae3f10a7f2f2ebfc177e949f1e389791959e44165535e9ddfdb1a8afd441af32"
+  sha256 "900431dda5e59fdc2f256bb1651926db5e14a77c49f667e4c6d0c7d954c31a90"
   license "MIT OR Apache-2.0"
 
   def install
