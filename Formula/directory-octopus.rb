@@ -9,9 +9,9 @@ class DirectoryOctopus < Formula
   # plus construit "from source" en CI depuis ce tarball : plus personne
   # d'autre que l'auteur ne peut télécharger le tarball source d'un dépôt
   # privé.
-  url "https://theorangenerd.ovh/doctopus/directory-octopus-1.0.0-macos-arm64.tar.gz"
-  version "1.0.0"
-  sha256 "c9e4c2bea3e9b9dea82929d1a2b803777b7ae406babc199c0495c15359a51fce"
+  url "https://theorangenerd.ovh/doctopus/directory-octopus-1.1.0-macos-arm64.tar.gz"
+  version "1.1.0"
+  sha256 "04326054f2917368086f867096821c8e161e4e1db09e35baab8726b3dfc6171f"
   license "MIT OR Apache-2.0"
 
   def install
